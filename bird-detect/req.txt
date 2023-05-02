@@ -1,0 +1,6 @@
+flask 
+librosa
+matplotlib
+pydub
+scikit-image
+tensorflow
