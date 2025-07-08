@@ -1,0 +1,2 @@
+# Bird Sound Classification Using ResNet50
+Developed a deep learning-based system to classify bird species from audio recordings using the ResNet-50 architecture. Audio data was pre-processed into Mel-spectrograms and fed into a 50-layer convolutional neural network to classify five distinct bird species: Blue Jay, Black-capped Chickadee, Mallard, Common Tern, and American Redstart. The model was trained on a subset of the Xeno-Canto bird sound dataset from Kaggle, assisting researchers in identifying species efficiently through acoustic analysis.
